@@ -1,0 +1,1 @@
+Тестовое задание Backend/Django
